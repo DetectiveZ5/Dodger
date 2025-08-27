@@ -6,7 +6,7 @@ This project was built as a compact micro-project to practice design, debugging,
 ---
 
 ## Demo
-- Play (hosted): `[https://detectivez5.github.io/Dodger/index.html](https://detectivez5.github.io/Dodger/index.html)`
+- Play (hosted): [https://detectivez5.github.io/Dodger/index.html](https://detectivez5.github.io/Dodger/index.html)
 
 ---
 
